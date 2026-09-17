@@ -1,0 +1,5 @@
+*.bsp
+*.vmx
+*.log
+*.prt
+maps/.windows-serial
